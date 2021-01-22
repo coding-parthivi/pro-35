@@ -1,1 +1,2 @@
-# pro-35
+# VitualPetProject34
+class 34 project errors
